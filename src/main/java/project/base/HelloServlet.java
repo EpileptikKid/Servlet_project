@@ -1,6 +1,6 @@
-package base;
+package project.base;
 
-import model.User;
+import project.model.entity.User;
 
 import java.io.*;
 
